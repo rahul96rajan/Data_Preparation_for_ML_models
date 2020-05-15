@@ -4,5 +4,6 @@
 * Aim of this repository is to get an introduction to how can you clean and transform your raw data.
 <br>
 
-###1. Feature Selection
- 1. [Visualizing correction between features](https://github.com/rahul96rajan/data_preparation_for_ML_models/blob/master/Feature_Selection/visualizing_correlation.ipynb) 
+### Table Of Content
+* [Chapter 1: Feature Selection](https://github.com/rahul96rajan/data_preparation_for_ML_models/blob/master/Feature_Selection/visualizing_correlation.ipynb) 
+	* [Visualizing correction between features](https://github.com/rahul96rajan/data_preparation_for_ML_models/blob/master/Feature_Selection/visualizing_correlation.ipynb) 
