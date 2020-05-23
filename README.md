@@ -5,8 +5,8 @@
 <br>
 
 ### Table Of Content
-* [Chapter 1: Feature Selection](https://github.com/rahul96rajan/data_preparation_for_ML_models/blob/master/Feature_Selection/visualizing_correlation.ipynb) 
-	* [Visualizing correction between features](https://github.com/rahul96rajan/data_preparation_for_ML_models/blob/master/Feature_Selection/visualizing_correlation.ipynb) 
+* [Chapter 1: Feature Selection](https://github.com/rahul96rajan/Data_Preparation_for_ML_models/blob/master/Feature_Selection/1.%20Visualizing_correlation.ipynb) 
+	* [Visualizing correction between features](https://github.com/rahul96rajan/Data_Preparation_for_ML_models/blob/master/Feature_Selection/1.%20Visualizing_correlation.ipynb) 
 	* [Handling High Multicolinearity - Using Feature Correlation](https://github.com/rahul96rajan/Data_Preparation_for_ML_models/blob/master/Feature_Selection/2.%20Multicollinearity-1.ipynb)
 	* [Handling High Multicolinearity - Using Variance Inflation Factor](https://github.com/rahul96rajan/Data_Preparation_for_ML_models/blob/master/Feature_Selection/3.%20Multicollinearity-2.ipynb)
 	* [Univariate feature selection (Chi2, ANOVA)](https://github.com/rahul96rajan/Data_Preparation_for_ML_models/blob/master/Feature_Selection/4.%20Chi2%20and%20ANOVA%20(Univariate%20feature%20selection).ipynb)
