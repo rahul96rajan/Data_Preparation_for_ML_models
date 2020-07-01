@@ -21,4 +21,3 @@
 Work in progress: I will be adding more content to this repo. Stay tuned. ツ
 
 ---
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frahul96rajan%2FData_Preparation_for_ML_models" alt="Hits">
